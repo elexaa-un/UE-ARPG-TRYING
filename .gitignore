@@ -1,0 +1,16 @@
+# 编辑器和 IDE 文件
+.vs/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+
+# 项目生成文件
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+
+# 插件中间文件
+/Plugins/**/Intermediate/
